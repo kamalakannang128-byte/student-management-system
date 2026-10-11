@@ -1,5 +1,5 @@
 # Student Management System
-A simple Python project built by BSc CS Student
+A simple Python project built by BSc CS Graduate - Python Developer
 
 ## Features
 - Add new student with name & marks
@@ -16,4 +16,4 @@ python main.py
 ## Future Update
 I will add SQL Database connection
 
-Built by Kamalakannan G | BSc CS 2nd Year | Kumbakonam
+Built by Kamalakannan G | BSc CS Graduate | Jayangondam | Open to Bangalore
